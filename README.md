@@ -31,13 +31,13 @@ python3 rsa.py
 ```
 
 ## Example:
-- **ElGamal Cryptosystem**
- Generate ElGamal keys and encrypt a message
+- **ElGamal Cryptosystem**<br>
+ Generate ElGamal keys and encrypt a message<br>
  Enter the message: Hello, World!
 
-- **RSA Algorithm**
-Generate RSA keys and encrypt a message
-Enter the message: OpenAI is amazing!
+- **RSA Algorithm**<br>
+Generate RSA keys and encrypt a message<br>
+Enter the message: OpenAI is amazing!<br>
 
 ## Requirements:
 
